@@ -10,7 +10,7 @@ export const metadata = {
   title: 'Play Music'
 }
 
-export default function RootLayout({
+export default function VersaoLayout({
   children
 }: {
   children: React.ReactNode
