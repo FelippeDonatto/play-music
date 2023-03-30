@@ -5,8 +5,8 @@
 <h2 align="center"> Play de musica - Desafio 1 - #bora codar Rocketseat</h2>
 
 <div align="center"> 
-  <img src="https://user-images.githubusercontent.com/7221671/228866989-44e4cfa7-db6b-416c-971c-6e3679dcec9e.png" width="450" />
-  <img src="https://user-images.githubusercontent.com/7221671/228866993-6ee93082-0d39-494d-bef3-40d823fedc88.png" width="450" />
+  <img src="https://user-images.githubusercontent.com/7221671/228866989-44e4cfa7-db6b-416c-971c-6e3679dcec9e.png" width="400" />
+  <img src="https://user-images.githubusercontent.com/7221671/228866993-6ee93082-0d39-494d-bef3-40d823fedc88.png" width="400" />
 </div>
 
 <h1>Bora Codar - Play music</h1>
