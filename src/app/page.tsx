@@ -15,14 +15,14 @@ import {
 
 export default function Home() {
   return (
-    <main className="flex flex-col justify-center items-center w-full h-screen">
+    <main className="flex flex-col justify-center items-center w-full h-screen max-md:px-4 max-md:mt-10">
       <Image src={logo} alt="" width={250} />
 
       <div className="pt-8">
         <h2>Desafio 01 - Play Music</h2>
       </div>
 
-      <div className="flex gap-8 my-8">
+      <div className="flex gap-8 my-8 max-md:flex-col">
         <div className="flex justify-center items-center gap-4 flex-col">
           <Image src={capaVersao} alt="" width={350} className="rounded-2xl" />
           <Link

@@ -7,8 +7,8 @@ import avancar from '/public/avancar.png'
 
 export default function Home() {
   return (
-    <main className="flex justify-center items-center w-full h-screen gap-8">
-      <div className="bg-violet-500 px-9 py-12 rounded-xl flex flex-col gap-7 ">
+    <main className="flex justify-center items-center w-full h-screen gap-8 max-md:flex-col max-md:px-4 max-md:mt-40">
+      <div className="bg-violet-500 px-9 py-12 rounded-xl flex flex-col gap-7 max-md:w-full">
         <Image src={capa} alt="" />
         <div>
           <h2 className="font-bold text-2xl leading-[100%]">Acorda Devinho</h2>

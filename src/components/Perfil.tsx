@@ -8,7 +8,7 @@ import avatar from '/public/avatar.jpg'
 
 export function Perfil() {
   return (
-    <div className="flex flex-col justify-center items-center w-[35%] p-6 gap-4">
+    <div className="flex flex-col justify-center items-center w-[35%] p-6 gap-4 w-full">
       <Image src={avatar} alt="" width={250} className="rounded-md" />
       <h2 className="font-bold text-3xl mb-4 ">Marlua</h2>
 
@@ -35,7 +35,7 @@ export function Perfil() {
         </ul>
       </div>
 
-      <p className="font-normal text-sm leading-5 text-center">
+      <p className="font-normal text-sm leading-5 text-center max-md:w-full">
         Marlua, multi-artista baiana, enveredou-se pela literatura, música e
         artes plásticas para sentir um ponto vibrante no mundo. Em sua
         trajetória, mais de dez anos ...
